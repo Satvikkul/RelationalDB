@@ -1,0 +1,2 @@
+# RelationalDB
+The project is made up of 6 stages that build on top of each other and follow the path of a SQL query from the user interface all the way down to the storage, and back through the relational algebra operators with the result displayed on the user’s screen. Stages: Database Catalog, Query Compiler (Built using lex (flex) and yacc (bison)), Heap File, Relational Algebra Operators, Sorted File and Sort- Based Relational Algebra Operators, B+ Tree Index.
